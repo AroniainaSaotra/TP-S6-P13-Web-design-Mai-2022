@@ -134,7 +134,7 @@
       <div class="row content" style="width:1000px; heigth:800px; margin-left:350px;">
           <?php for($i=0; $i<count($images); $i++) { ?>
               <img src="assets/img/<?php echo $images[$i]['img']; ?>" width="800" heigth="500">
-              <p><a href="details.php"><?php echo $images[$i]['descri']; ?></a></p>
+              <p><a href="#"><?php echo $images[$i]['descri']; ?></a></p>
           <?php } ?>
       </div>
 

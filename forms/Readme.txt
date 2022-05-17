@@ -7,6 +7,7 @@ Score:
     -mobile:77
     -bureau:96
 
+Dans htaccess:
 #gzip
 <IfModule mod_deflate.c>
         AddOutputFilterByType DEFLATE text/html text/plain text/css application/json

@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^rechauffement-climatique$  index.php [L]
+RewriteRule ^login_administrateur$  login.php [L]
+
+

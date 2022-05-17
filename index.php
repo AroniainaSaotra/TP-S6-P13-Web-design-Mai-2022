@@ -114,7 +114,7 @@
         </div>
 
         <div class="from-group row">
-              <div class="card" style="width: 18rem; margin-left:520px;" >
+              <div class="card" style="width: 50rem; margin-left:300px;" >
                 <div class="card-body">
                   <?php for($i=0; $i<count($cas); $i++) { ?>
                   <h5 class="card-title"><?php echo $cas[$i]['continent']; ?></h5>
